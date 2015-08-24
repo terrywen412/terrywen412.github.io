@@ -1,9 +1,32 @@
-p
-{
-
+a {
+    text-decoration: none;
 }
 
-body
-{
+h2 {
+    font-family: "Lucida Sans Unicode", sans-serif;
+    font-weight: bold;
+    font-size: 1.2em;
+    color: white;
+}
 
+#explore_button {
+    border: 3px solid #ffffff;
+	background-color: rgba(255, 255, 255, 0);
+	width: 8em;
+	margin: auto;
+	text-align: center;
+    
+}
+
+#logo {
+    width: 10em;
+    padding-top: 1em;
+    padding-left: 1.2em;
+}
+
+#welcome {
+    display: block;
+    width: 35em;
+    margin: auto;
+    padding-top: 12em;
 }
