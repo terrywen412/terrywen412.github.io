@@ -21,8 +21,13 @@ h2 {
 
 table, tr, td {
     text-align: center;
+    width: 11em;
 }
 
+div, h3 {
+    padding-left: 0.2em;
+    margin-bottom: 0em;
+}
 
 #explore_button {
     border: 3px solid #ffffff;
@@ -30,13 +35,12 @@ table, tr, td {
 	width: 8em;
 	margin: auto;
 	text-align: center;
-    
 }
 
 #logo {
     width: 10em;
     padding-top: 1em;
-    padding-left: 1.2em;
+    padding-left: 1.6em;
 }
 
 #welcome {
@@ -48,24 +52,22 @@ table, tr, td {
 
 .navigation {
     padding-top: 2em;
-    padding-left: 3em;
+    padding-left: 2.5em;
 }
 
 .side_bar {
 	z-index: 0;
 	position:fixed;
     float: left;
-	width: 12.2em;
 	height: 100%;
 	background-color: #ffffff;
 }
 
 .gallery {
-
 	background-color: #ffffff;
-    margin-left: 12.5em;
-    margin-right: 0em;
-    padding-left: 0.2em;
+    margin-left: 12em;
+    padding-left: 2em;
+    padding-top: 0.5em;
 }
 
 .image {
