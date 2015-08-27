@@ -1,10 +1,14 @@
+body{
+    background-color: #ffffff;
+}
+
 table, tr, td, a {
     text-decoration: none;
     color: #5f5f5f;
 }
 
 table, tr, td, a:visited {
-    text-decoration: f4f4f4;
+    text-decoration: none;
     color: #5f5f5f;
 }
 
@@ -26,7 +30,7 @@ table, tr, td {
 
 div, h3 {
     padding-left: 0.2em;
-    margin-bottom: 0em;
+    margin-bottom: 0.2em;
 }
 
 #explore_button {
@@ -63,20 +67,21 @@ div, h3 {
 	background-color: #ffffff;
 }
 
-.gallery {
+.my-gallery {
 	background-color: #ffffff;
     margin-left: 12em;
     padding-left: 2em;
     padding-top: 0.5em;
 }
 
-.image {
-    z-index: -1;
+.my-gallery img {
     height: 11.6em;
     width: auto;
-    margin-top: 0.5em;
-    margin-left: 0.3em;
-    margin-bottom: -0.2em;
+}
+
+.my-gallery figure {
+    display: inline-block;
+    margin: 0.5em 0 -0.2em 0.3em;
 }
 
 
