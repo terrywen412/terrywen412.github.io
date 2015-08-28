@@ -28,6 +28,7 @@ div#exploreButtonFrame {
 	width: 9em;
     height: 3.5em;
     margin: auto;
+    display: block;
 }
 
 div#exploreButtonFrame a {
@@ -61,18 +62,11 @@ div#exploreButtonFrame a {
 }
 
 div.container4 {
-    top: 45%;
-    left: 50%;
-    position: absolute;
+    margin-top: 15%;
 }
 
 div.container4 img {
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%)
+    margin:auto;
 }
 
 .navigation {
