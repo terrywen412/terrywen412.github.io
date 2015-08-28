@@ -61,6 +61,10 @@ div#exploreButtonFrame a {
     vertical-align: middle;
 }
 
+#special {
+    color: white;
+}
+
 div.container4 {
     margin-top: 15%;
 }
