@@ -52,13 +52,12 @@ div#exploreButtonFrame a {
 #logo {
     width: 10em;
     padding-top: 1em;
-    padding-left: 1.6em;
+    padding-left: 1.5em;
 }
 
 #welcome {
     display: table-cell;
     width: 35em;
-    vertical-align: middle;
 }
 
 #special {
@@ -66,7 +65,7 @@ div#exploreButtonFrame a {
 }
 
 div.container4 {
-    margin-top: 15%;
+    margin-top: 11%;
 }
 
 div.container4 img {
