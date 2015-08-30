@@ -1,6 +1,6 @@
 body{
     background-color: #ffffff;
-    font-family: 'Open Sans', Trebuchet MS, sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 table, tr, td, a {
@@ -20,6 +20,7 @@ table, tr, td, a:hover {
 table, tr, td {
     text-align: center;
     width: 11em;
+    height: 2em;
 }
 
 div#exploreButtonFrame {
@@ -62,6 +63,13 @@ div#exploreButtonFrame a {
 
 #special {
     color: white;
+    font-family: 'Pinyon Script', cursive;
+    font-size: 1.5em;
+    padding-right: 0.5em;
+}
+
+#special:before {
+    content: "\00a0 ";
 }
 
 div.container4 {
