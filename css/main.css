@@ -85,11 +85,11 @@ div#exploreButtonFrame a {
     width: 3em;
 }
 
-div.container4 {
+div.TFcontainer {
     margin-top: 11%;
 }
 
-div.container4 img {
+div.TFcontainer img {
     margin:auto;
 }
 
@@ -111,6 +111,27 @@ div.container4 img {
     margin-left: 12em;
     padding-left: 2em;
     padding-top: 0.5em;
+}
+
+#about {
+    margin-left: 14em;
+    margin-top: 2em;
+    margin-right: 8em;
+    padding-top: 2em;
+    position: fixed;
+    height: 70%;
+    background-image: url("https://cloud.githubusercontent.com/assets/13939627/9457273/ce3565ac-4a95-11e5-9958-ee4ce85c4032.jpg");
+    background-color: #ffffff;
+    background-size: cover;
+    background-position: bottom center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color:white;
+}
+
+.aboutPadding {
+    padding-left: 4em;
+    padding-right: 4em;
 }
 
 .my-gallery img {
