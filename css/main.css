@@ -50,7 +50,7 @@ div#exploreButtonFrame a {
 }
 
 #exploreButtonFrame:hover #exploreButtonText{
-    color: rgb(90, 126, 97);
+    color: rgb(86, 119, 92);
 }
 
 #exploreButtonText {
@@ -118,7 +118,24 @@ div.TFcontainer img {
 	background-color: #ffffff;
     margin-left: 12em;
     padding-left: 2em;
-    padding-top: 0.5em;
+    padding-top: 0.01em;
+}
+
+.my-gallery img {
+    height: 11.6em;
+    width: auto;
+}
+
+.my-gallery figure {
+    display: inline-block;
+    margin: 0.5em 0 -0.2em 0.3em;
+}
+
+.galleryName {
+    padding-left: 0.2em;
+    margin-bottom: 0.2em;
+    font-family: 'Lobster Two', 'Open Sans', sans-serif;
+    font-size: 150%;
 }
 
 #about {
@@ -142,20 +159,8 @@ div.TFcontainer img {
     padding-right: 4em;
 }
 
-.my-gallery img {
-    height: 11.6em;
-    width: auto;
+#ucla {
+    padding-top: 2em;
+    padding-bottom: 0.2em;
+    height: 2.2em;
 }
-
-.my-gallery figure {
-    display: inline-block;
-    margin: 0.5em 0 -0.2em 0.3em;
-}
-
-.galleryName {
-    padding-left: 0.2em;
-    margin-bottom: 0.2em;
-}
-
-
-
