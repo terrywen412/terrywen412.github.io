@@ -162,5 +162,6 @@ div.TFcontainer img {
 #ucla {
     padding-top: 2em;
     padding-bottom: 0.2em;
-    height: 2.2em;
+    width: 4.5em;
+    height: auto;
 }
