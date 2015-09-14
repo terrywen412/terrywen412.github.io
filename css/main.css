@@ -150,9 +150,9 @@ div.TFcontainer img {
 
 #about {
     margin-left: 14em;
-    margin-top: 2em;
+    margin-top: 5em;
     margin-right: 8em;
-    padding-top: 6em;
+    padding-top: 3em;
     position: fixed;
     height: 70%;
     background-image: url("https://cloud.githubusercontent.com/assets/13939627/9747132/cd775a20-5630-11e5-8d93-d412494df58a.jpg");
@@ -209,13 +209,13 @@ div.TFcontainer img {
     }
     .logo {
         width: 13em;
-        margin-left: -1em;
+        margin-left: -1.2em;
     }
     #welcomeLogo {
         width: 18em;
     }
     #about {
-        margin: 3em 2em 2em 9em;
+        margin: 5em 2em 2em 9em;
         padding-top: 1em;
         font-size: 150%;
         height: 80%;
