@@ -175,5 +175,10 @@ div.TFcontainer img {
     .my-gallery img {
         height: 14em;
         width: auto;
+    }
+    #pano {
+        height: 10em;
+        width: auto;
 }
 }
+
