@@ -1,8 +1,14 @@
-body{
+html {
+    height:100%;
+    min-height:100%;
+}
+
+body {
     background-color: #f7f7f7;
     font-family: 'Lato', sans-serif;
     letter-spacing: 1px;
     color: #171717;
+    min-height:100%;
 }
 
 table, tr, td, a {
@@ -25,7 +31,7 @@ table, tr, td {
     height: 2em;
 }
 
-body#background {
+#background {
     background-image: url("https://cloud.githubusercontent.com/assets/13939627/9754141/d36bc264-567a-11e5-9281-0cf0dcf178fa.jpg");
     background-color: #ffffff;
     background-size: cover;
