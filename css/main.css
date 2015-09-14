@@ -179,7 +179,7 @@ div.TFcontainer img {
 @media only screen and (max-device-width: 1081px) {
 
     .galleryName {
-        font-size: 3.5em;
+        font-size: 3.8em;
         margin-top: 0.3em;
 	}
     .my-gallery img {
@@ -231,8 +231,5 @@ div.TFcontainer img {
     }
     #exploreButtonText {
         font-size: 2.4em;
-    }
-    .sidebar {
-        overflow: scroll;
     }
 }
