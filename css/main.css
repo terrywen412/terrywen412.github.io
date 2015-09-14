@@ -183,8 +183,9 @@ div.TFcontainer img {
 @media only screen and (max-device-width: 1081px) {
 
     .galleryName {
-        font-size: 3.7em;
-        margin-top: 0.4em;
+        font-size: 5em;
+        margin-top: 0.1em;
+        margin-left: -0.1em;
         font-family: 'Lato', sans-serif;
 	}
     .my-gallery img {
@@ -213,7 +214,7 @@ div.TFcontainer img {
         width: 18em;
     }
     #about {
-        margin: 2em 2em 2em 9em;
+        margin: 3em 2em 2em 9em;
         padding-top: 1em;
         font-size: 150%;
         height: 80%;
