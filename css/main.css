@@ -157,7 +157,7 @@ div.TFcontainer img {
     background-position: bottom center;
     background-repeat: no-repeat;
     color: white;
-    z-index: -1;
+    overflow: scroll;
 }
 
 .aboutPadding {
@@ -232,11 +232,7 @@ div.TFcontainer img {
     #exploreButtonText {
         font-size: 2.4em;
     }
-
+    .sidebar {
+        overflow: scroll;
+    }
 }
-
-@media only screen and (orientation:landscape) {
-    #about p {
-        position: static;
-    }}
-
