@@ -67,7 +67,7 @@ div#exploreButtonFrame a {
     text-decoration: underline;
 }
 
-#logo {
+#welcomeLogo {
     width: 10em;
     padding-top: 1em;
     padding-left: 1.5em;
@@ -104,6 +104,12 @@ div.TFcontainer img {
 .navigation {
     padding-top: 2em;
     padding-left: 2.3em;
+}
+
+.logo {
+    width: 10em;
+    padding-top: 1em;
+    padding-left: 1.5em;
 }
 
 .side_bar {
@@ -194,9 +200,12 @@ div.TFcontainer img {
     .navigation {
         padding-left: 1.2em;
     }
-    #logo {
+    .logo {
         width: 13em;
         margin-left: -1em;
+    }
+    #welcomeLogo {
+        width: 15em;
     }
     #about {
         margin: 2em 2em 2em 9em;
@@ -207,7 +216,18 @@ div.TFcontainer img {
     .aboutPadding {
         padding-left: 3em;
         padding-right: 2em;
-}
+    }
+    #welcome {
+        width: 45em;
+    }
+    div#exploreButtonFrame {
+        border: 5px solid #ffffff;
+	    width: 17em;
+        height: 6.5em;
+    }
+    #exploreButtonText {
+        font-size: 2.4em;
+    }
 }
 
 
