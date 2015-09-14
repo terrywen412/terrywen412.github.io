@@ -169,7 +169,8 @@ div.TFcontainer img {
 @media only screen and (max-device-width: 1081px) {
 
     .galleryName {
-            font-size: 300%;
+        font-size: 300%;
+        margin-top: -0.5em;
 	}
     
 }
