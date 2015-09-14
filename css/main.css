@@ -165,3 +165,11 @@ div.TFcontainer img {
     width: 4.5em;
     height: auto;
 }
+
+@media only screen and (max-device-width: 1081px) {
+
+    .galleryName {
+            font-size: 300%;
+	}
+    
+}
