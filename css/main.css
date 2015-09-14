@@ -235,7 +235,7 @@ div.TFcontainer img {
 
 }
 
-@media only screen (max-device-width: 1081px) and (orientation:landscape) {
+@media only screen and (orientation:landscape) {
     position: static;
 }
 
