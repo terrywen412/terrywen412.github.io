@@ -142,7 +142,7 @@ div.TFcontainer img {
     margin-left: 14em;
     margin-top: 2em;
     margin-right: 8em;
-    padding-top: 2em;
+    padding-top: 6em;
     position: fixed;
     height: 70%;
     background-image: url("https://cloud.githubusercontent.com/assets/13939627/9747132/cd775a20-5630-11e5-8d93-d412494df58a.jpg");
@@ -150,13 +150,17 @@ div.TFcontainer img {
     background-size: cover;
     background-position: bottom center;
     background-repeat: no-repeat;
-    background-attachment: fixed;
     color: white;
+    z-index: -1;
 }
 
 .aboutPadding {
     padding-left: 4em;
     padding-right: 4em;
+}
+
+#aboutPageTitle {
+    position: fixed;
 }
 
 #ucla {
@@ -179,6 +183,32 @@ div.TFcontainer img {
     #pano {
         height: 10em;
         width: auto;
+    }
+    #ucla {
+        width: 8em;
+        height: auto;
+    }
+    table, tr, td {
+        font-size: 115%;
+    }
+    .navigation {
+        padding-left: 1.2em;
+    }
+    #logo {
+        width: 13em;
+        margin-left: -1em;
+    }
+    #about {
+        margin: 2em 2em 2em 8em;
+        padding-top: 2em;
+        font-size: 170%;
+        height: 80%;
+    }
+    .aboutPadding {
+    padding-left: 3em;
+    padding-right: 3em;
 }
 }
+
+
 
