@@ -236,6 +236,7 @@ div.TFcontainer img {
 }
 
 @media only screen and (orientation:landscape) {
-    position: static;
-}
+    #about p {
+        position: static;
+    }}
 
