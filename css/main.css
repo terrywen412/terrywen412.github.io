@@ -149,7 +149,7 @@ div.TFcontainer img {
     margin-top: 2em;
     margin-right: 8em;
     padding-top: 6em;
-    position: absolute;
+    position: fixed;
     height: 70%;
     background-image: url("https://cloud.githubusercontent.com/assets/13939627/9747132/cd775a20-5630-11e5-8d93-d412494df58a.jpg");
     background-color: #ffffff;
@@ -179,7 +179,7 @@ div.TFcontainer img {
 @media only screen and (max-device-width: 1081px) {
 
     .galleryName {
-        font-size: 350%;
+        font-size: 3.5em;
         margin-top: 0.3em;
 	}
     .my-gallery img {
@@ -205,29 +205,34 @@ div.TFcontainer img {
         margin-left: -1em;
     }
     #welcomeLogo {
-        width: 15em;
+        width: 18em;
     }
     #about {
         margin: 2em 2em 2em 9em;
         padding-top: 1em;
-        font-size: 160%;
+        font-size: 150%;
         height: 80%;
     }
     .aboutPadding {
-        padding-left: 3em;
+        padding-left: 2em;
         padding-right: 2em;
+    }
+    #about p {
+        position: relative;
     }
     #welcome {
         width: 45em;
+        margin-top: -5em;
     }
     div#exploreButtonFrame {
         border: 5px solid #ffffff;
-	    width: 17em;
+	    width: 18em;
         height: 6.5em;
     }
     #exploreButtonText {
         font-size: 2.4em;
     }
+
 }
 
 
