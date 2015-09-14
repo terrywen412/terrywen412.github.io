@@ -218,7 +218,7 @@ div.TFcontainer img {
         padding-right: 2em;
     }
     #about p {
-        position: relative;
+        position: static;
     }
     #welcome {
         width: 45em;
