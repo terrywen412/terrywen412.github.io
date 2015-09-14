@@ -184,9 +184,9 @@ div.TFcontainer img {
 
     .galleryName {
         font-size: 5em;
-        margin-top: 0.1em;
+        margin-top: 0.3em;
         margin-left: -0.1em;
-        font-family: 'Lato', sans-serif;
+        font-family: 'Josefin Sans', sans-serif;
 	}
     .my-gallery img {
         height: 14em;
