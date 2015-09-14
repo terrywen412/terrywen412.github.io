@@ -143,7 +143,7 @@ div.TFcontainer img {
     margin-top: 2em;
     margin-right: 8em;
     padding-top: 6em;
-    position: fixed;
+    position: absolute;
     height: 70%;
     background-image: url("https://cloud.githubusercontent.com/assets/13939627/9747132/cd775a20-5630-11e5-8d93-d412494df58a.jpg");
     background-color: #ffffff;
@@ -173,7 +173,7 @@ div.TFcontainer img {
 @media only screen and (max-device-width: 1081px) {
 
     .galleryName {
-        font-size: 300%;
+        font-size: 350%;
         margin-top: 0.3em;
 	}
     .my-gallery img {
@@ -185,7 +185,7 @@ div.TFcontainer img {
         width: auto;
     }
     #ucla {
-        width: 8em;
+        width: 12em;
         height: auto;
     }
     table, tr, td {
@@ -199,14 +199,14 @@ div.TFcontainer img {
         margin-left: -1em;
     }
     #about {
-        margin: 2em 2em 2em 8em;
-        padding-top: 2em;
-        font-size: 170%;
+        margin: 2em 2em 2em 9em;
+        padding-top: 1em;
+        font-size: 160%;
         height: 80%;
     }
     .aboutPadding {
-    padding-left: 3em;
-    padding-right: 3em;
+        padding-left: 3em;
+        padding-right: 2em;
 }
 }
 
