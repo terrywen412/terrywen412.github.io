@@ -69,10 +69,11 @@ div#exploreButtonFrame a {
 
 #email {
     color: white;
+    font-style: italic;
 }
 
 #email:hover {
-    text-decoration: underline;
+    font-weight: bold;
 }
 
 #welcomeLogo {
